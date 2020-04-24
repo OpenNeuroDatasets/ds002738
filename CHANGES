@@ -1,0 +1,10 @@
+1.0.0	2018-06-06
+
+	- initial release
+
+1.0.2 2017-05-05
+ - Added missing "epi" fieldmap for subject 384
+
+1.0.1 2017-05-04
+ - Dissassociate "epi" fieldmaps from subjects 276, 278, 310, 356, and 388 due to suboptimal performance
+
